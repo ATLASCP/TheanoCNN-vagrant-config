@@ -56,7 +56,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   #   vb.customize ["modifyvm", :id, "--memory", "1024"]
 
   	# Specifiy box name
-  	vb.name = "Theano-precise64"
+  	vb.name = "TheanoCNN-precise64"
   end
   #
   # View the documentation for the provider you're using for more
